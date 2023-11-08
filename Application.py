@@ -163,7 +163,7 @@ def on_button3_click():
 window = tk.Tk()
 
 # Set the window title
-window.title("Tkinter Window Example")
+window.title("Pothole Detection")
 
 # Create labels at the top
 label1 = tk.Label(window, text="Image")
